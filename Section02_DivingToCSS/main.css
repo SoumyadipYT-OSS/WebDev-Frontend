@@ -1,0 +1,24 @@
+section {
+    background: #93772b86;
+    padding: 0.5%;
+    border-radius: 10px;
+    margin: 2rem;
+}
+
+.section-title {
+    background-color: rgb(12, 109, 86);
+    padding: 0.1%;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+
+#product-overview {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #884214a4;
+}
+
+#plans {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #79ff04a4;
+}
